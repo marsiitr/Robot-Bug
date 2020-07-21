@@ -25,7 +25,8 @@ We have been hearing of robots being used mainly in factories for automating tim
 
 
 ## Cost Structure:
-
+|Components|Cost(INR.)|
+|---       |---       |
 ## Product Cost
                             	
 	
@@ -56,6 +57,7 @@ We have been hearing of robots being used mainly in factories for automating tim
 3)	Shreyam Bansal
 4)	Ujjwal Das
 5)	Vaibhav Saini
+
 
 
 ## Mentors:
