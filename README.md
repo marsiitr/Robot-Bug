@@ -27,10 +27,13 @@ We have been hearing of robots being used mainly in factories for automating tim
 ## Cost Structure:
 |Components    |Number Used|Cost(INR.) |
 |---           |---	   |---        |
-|Arduino UNO   |1          |400        |
+|Arduino UNO   |1          |500        |
 |Battery       |1          |400        |
 |Caster Wheel  |1          |25         |
-
+|Servo Motors|3 |250  |
+|Bluetooth Module |1   |350   |
+|Miscellaneous   |---|150 |
+|Total |2175|
 	
                                                             
 
@@ -66,3 +69,6 @@ We have been hearing of robots being used mainly in factories for automating tim
 
 
 ## References:
+1) https://grabcad.com/  <br/>
+2) https://stackoverflow.com/   <br/>
+3) https://www.arduino.cc/en/Tutorial/HomePage?from=Main.Tutorials
