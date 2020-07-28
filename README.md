@@ -25,13 +25,15 @@ We have been hearing of robots being used mainly in factories for automating tim
 
 
 ## Cost Structure:
-|Components|Cost(INR.)|
-|---       |---       |
-## Product Cost
-                            	
+|Components    |Number Used|Cost(INR.) |
+|---           |---        |---        |
+|Arduino UNO   |1          |400        |
+|---           |---        |---        |
+|Battery       |1          |400        |
+|---           |---        |---        |
+|Caster Wheel  |1          |25         |
+|---           |---        |---        |
 	
-	
-## Total	
                                                             
 
 ## Application:
