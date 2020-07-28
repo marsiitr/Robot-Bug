@@ -23,7 +23,8 @@ We have been hearing of robots being used mainly in factories for automating tim
 2)	The speed and the angles have been optimized as per the design and weight of the bug
 3)	A rechargeable 11V battery has also been connected to Arduino for power supply
 
-
+## Flowchart
+![Screenshot (20)](https://user-images.githubusercontent.com/55125159/88693423-e46f2480-d11c-11ea-87b7-0cd2659561b9.png)
 
 
 ## Cost Structure:
