@@ -1,5 +1,6 @@
 # Robot-Bug
 Srishti 2020
+<p align="center">
 ## Abstract:<br/>
 Aim of the project is to make a robot bug that can be used to collection information from places that are inaccessible for humans<br/>
 
@@ -72,3 +73,4 @@ We have been hearing of robots being used mainly in factories for automating tim
 1) https://grabcad.com/  <br/>
 2) https://stackoverflow.com/   <br/>
 3) https://www.arduino.cc/en/Tutorial/HomePage?from=Main.Tutorials
+</p>
