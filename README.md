@@ -43,6 +43,7 @@ Making surveillance of any disaster-affected area where human beings can’t go.
 <li>Some areas need to be placed under video surveillance for a short time only, and therefore equipping them with stationary CCTV systems is not viable. Such challenges often arise in agricultural settings. For example, the fields might only need to be placed under video surveillance when the crops are reaching maturity. Surveillance of pastures is advantageous only while cattle are roaming around them. <br/></li>
 <li>	Can be used in industries to detect parts of the machinery that are faulted.<br/> </li>
 </ol>	
+
 ## Limitations:
 <p align="justify">
 <ol>
@@ -50,21 +51,23 @@ Making surveillance of any disaster-affected area where human beings can’t go.
 <li>It is occupying more space than expected due to use of macro Arduino, 11V battery.<br/></li>
 <li>It currently has only recorded videos and images and not live recording.<br/></li>
 </ol>
+
 ## Further Improvements:
 <p align="justify">
 <ol>
 <li>We can use nano Arduino, a battery of 9V (smaller than 11V) hence reducing surface areas, in return reducing the dimensions of legs being attached. This will help in reducing space occupied and also increasing the speed due to lesser weight load on motors.<br/></li>
 	<li>We can also include the features of live recording by using RasberryPi.<br/></li>
 </ol>
+
 ## Team Members:
 1)	Himank Sehgal
-2)	Ketan Dongre
-3)	Shreyam Bansal
+2)	Ketan Dongre(https://github.com/ketandongre)<br>
+3)	Shreyam Bansal(https://github.com/shreyamsmp)<br>
 4)	Ujjwal Das
-5)	Vaibhav Saini
+5)	Vaibhav Saini(https://github.com/Vaibhav104-hub)<br>
 ## Mentors:
-1)	Ruchika Guntewar
-2)	Shashi Muchkund
+1)	[Ruchika Guntewar](https://github.com/RuchikaGuntewar)<br>
+2)	[Shashi Muchkund](https://github.com/smuchkund)<br>
 
 ## References:
 1) https://grabcad.com/  <br/>
