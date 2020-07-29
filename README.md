@@ -13,18 +13,21 @@ We have been hearing of robots being used mainly in factories for automating tim
 
 ## Mechanical Aspects of Design:
 <p align="justify">
-1)	3 servo motors have been used for the project. The function of the servo motor placed along the side face of bug’s body rotates the bevel gears which is turn raise the arm up. <br/>
-2)	Once the arms are raised, the 2 servo motors being attached on the arms(1 on each) then moves the arms forward. <br/>
-3)	Hence first the arms are raised, then they move forward, touch down and then bot moves forward. <br/>
-4)	A castor wheel is also attached so that the bot can move smoothly without any restrictions due to friction. <br/> 
-
+	<ol>
+<li>3 servo motors have been used for the project. The function of the servo motor placed along the side face of bug’s body rotates the bevel gears which is turn raise the arm up. <br/></li>
+<li>Once the arms are raised, the 2 servo motors being attached on the arms(1 on each) then moves the arms forward. <br/></li>
+<li>Hence first the arms are raised, then they move forward, touch down and then bot moves forward. <br/><li>
+<li>A castor wheel is also attached so that the bot can move smoothly without any restrictions due to friction. <br/></li> 
+</ol>
 
 ## Electronic Aspects of Design:
 <p align="justify">
-1)	Arduino has been attached to the body which controls the servo motors’ performance like angle of rotation and speed etc.<br/>
-2)	The speed and the angles have been optimized as per the design and weight of the bug.<br/>
-3)	A rechargeable 11V battery has also been connected to Arduino for power supply.<br/>
-	
+<ol>
+<li>Arduino has been attached to the body which controls the servo motors’ performance like angle of rotation and speed etc.<br/></li>
+<li>The speed and the angles have been optimized as per the design and weight of the bug.<br/></li>
+<li>A rechargeable 11V battery has also been connected to Arduino for power supply.<br/></li>
+</ol>
+
 ## Flowchart
 ![Screenshot (20)](https://user-images.githubusercontent.com/55125159/88693423-e46f2480-d11c-11ea-87b7-0cd2659561b9.png)
 ## Cost Structure:
