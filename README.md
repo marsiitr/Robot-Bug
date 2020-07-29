@@ -61,10 +61,10 @@ Making surveillance of any disaster-affected area where human beings can’t go.
 
 ## Team Members:
 1)	Himank Sehgal
-2)	Ketan Dongre(https://github.com/ketandongre)<br>
-3)	Shreyam Bansal(https://github.com/shreyamsmp)<br>
+2)	[Ketan Dongre](https://github.com/ketandongre)<br>
+3)	[Shreyam Bansal](https://github.com/shreyamsp)<br>
 4)	Ujjwal Das
-5)	Vaibhav Saini(https://github.com/Vaibhav104-hub)<br>
+5)	[Vaibhav Saini](https://github.com/Vaibhav104-hub)<br>
 ## Mentors:
 1)	[Ruchika Guntewar](https://github.com/RuchikaGuntewar)<br>
 2)	[Shashi Muchkund](https://github.com/smuchkund)<br>
