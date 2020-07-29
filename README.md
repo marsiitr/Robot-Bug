@@ -16,7 +16,7 @@ We have been hearing of robots being used mainly in factories for automating tim
 	<ol>
 <li>3 servo motors have been used for the project. The function of the servo motor placed along the side face of bug’s body rotates the bevel gears which is turn raise the arm up. <br/></li>
 <li>Once the arms are raised, the 2 servo motors being attached on the arms(1 on each) then moves the arms forward. <br/></li>
-<li>Hence first the arms are raised, then they move forward, touch down and then bot moves forward. <br/><li>
+<li>Hence first the arms are raised, then they move forward, touch down and then bot moves forward. <br/></li>
 <li>A castor wheel is also attached so that the bot can move smoothly without any restrictions due to friction. <br/></li> 
 </ol>
 
