@@ -43,10 +43,9 @@ We have been hearing of robots being used mainly in factories for automating tim
 ## Application:
 <p align="justify">
 <ol>
-<li>	
-Making surveillance of any disaster-affected area where human beings can’t go.<br/></li>
+<li>Making surveillance of any disaster-affected area where human beings can’t go.<br/></li>
 <li>Some areas need to be placed under video surveillance for a short time only, and therefore equipping them with stationary CCTV systems is not viable. Such challenges often arise in agricultural settings. For example, the fields might only need to be placed under video surveillance when the crops are reaching maturity. Surveillance of pastures is advantageous only while cattle are roaming around them. <br/></li>
-<li>	Can be used in industries to detect parts of the machinery that are faulted.<br/> </li>
+<li>Can be used in industries to detect parts of the machinery that are faulted.<br/> </li>
 </ol>	
 
 ## Limitations:
