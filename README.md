@@ -2,9 +2,11 @@
 Srishti 2020
 ## Abstract:<br/>
 <p align="justify">
-Aim of the project is to make a robot bug that can be used to collection information from places that are inaccessible for humans<br/>
-	
-![image](https://user-images.githubusercontent.com/55125159/88085295-47a00a80-cba3-11ea-95ea-f0bd5559e5a1.jpg)
+Aim of the project is to make a robot bug that can be used to collection information from places that are inaccessible for humans<br/></p>
+<p align="center">
+		
+![Robot Bug View 2](https://user-images.githubusercontent.com/55125159/88784215-66a72980-d1ad-11ea-9a5b-bbb6d0e23371.jpeg)
+
 ## Motivation:<br/>
 <p align="justify">
 We have been hearing of robots being used mainly in factories for automating time-consuming processes and how they have radically changed the way work is being done. In the current times, the focus is on how the use of robotics outside the factory can change our lives over the coming decades. This is not just limited to easing out the day to day tasks but also includes the use of robots for more complex tasks. 
